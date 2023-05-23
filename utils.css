@@ -1,0 +1,23 @@
+.center{
+    text-align: center;
+}
+.bg-red{
+    background: red;
+}
+.flex {
+  display: flex;
+}
+.flex-col{
+ flex-direction: column;    
+}
+
+.items-center{
+    align-items: center;
+}
+
+.input{
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 19px;
+}
